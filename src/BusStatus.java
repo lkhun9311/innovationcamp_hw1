@@ -1,3 +1,3 @@
 public enum BusStatus {
-    RUN, GARAGE;
+    RUN, GARAGE, RESET;
 }
