@@ -217,7 +217,7 @@ public class Main {
                         taxi = taxi_list.get(k);
                         while(true){
                             System.out.println("택시 운행을 계속하려면 'start'을 입력해주세요.");
-                            System.out.println("택시에서 손님이 내리고 계산을 완료하면 'pay'을 입력해주세요. (*손님이 전부 하차해야 'start'를 진행할 수 있습니다.)");
+                            System.out.println("택시에서 손님을 내리고 계산하려면 'pay'을 입력해주세요. (*손님이 전부 하차해야 'start'를 진행할 수 있습니다.)");
                             System.out.println("택시 운행을 종료하고 손님을 대기하거나 주유를 원하면 'stop'을 입력해주세요.");
                             System.out.println("택시 운행 시니라오 종료를 원한다면 'esc'를 입력해주세요.");
                             System.out.println("현재 택시의 전체 정보를 원한다면 '#'를 입력해주세요.");
